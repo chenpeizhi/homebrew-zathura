@@ -1,8 +1,8 @@
 class Girara < Formula
   desc "Interface library"
   homepage "https://pwmt.org/projects/girara/"
-  url "https://github.com/pwmt/girara/archive/0.4.0.tar.gz"
-  sha256 "24edfa3d493e7d4bbf491bb730d036cfedbd6c34ada1a7cfcd6273e78cffa44c"
+  url "https://github.com/pwmt/girara/archive/0.4.2.tar.gz"
+  sha256 "e13c1f7c8984ef791b9e60fe3a22926dab9581eb179fe29a29808ac7d328cf5c"
   head "https://github.com/pwmt/girara.git", branch: "develop"
 
   depends_on "meson" => :build
