@@ -1,8 +1,8 @@
 class ZathuraPdfMupdf < Formula
   desc "MuPDF backend plugin for zathura"
   homepage "https://pwmt.org/projects/zathura-pdf-mupdf/"
-  url "https://github.com/pwmt/zathura-pdf-mupdf/archive/0.3.9.tar.gz"
-  sha256 "05a6f22244c054a90f89ea2f746ea45ebaceb6c0559bfa4dcfd120c4d485346c"
+  url "https://github.com/pwmt/zathura-pdf-mupdf/archive/0.4.1.tar.gz"
+  sha256 "3cf142bfd189ee2cd0130d18a6c202bbc188f172695642a46556e824bd78b9aa"
   revision 1
 
   depends_on "cmake" => :build
